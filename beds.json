@@ -1,6 +1,6 @@
 [
   {
-    "name": "Inflatable bed",
+    "name": "Mid Rise",
     "price": 13500,
     "description": "Lorem ipsum",
     "colors": [
@@ -23,17 +23,16 @@
     ]
   },
   {
-    "name": "Inflatable bed",
+    "name": "Intex King Size",
     "price": 13500,
-    "description": "Lorem ipsum",
+    "description": "Pillow Rest",
     "colors": [
       "blue",
       "black",
-      "teal",
       "gray"
     ],
     "weight_limit": 35,
-    "size": "4x4",
+    "size": "King Size",
     "texture": [
       "Velvet"
     ],
@@ -44,5 +43,72 @@
     "image": [
       "https://nini.loopy.co.ke/bed1.jpg"
     ]
+  },
+  {
+    "name": "Intex Comfort",
+    "price": 14500,
+    "description": "plush high raised",
+    "colors": [
+      "black",
+      "gray"
+    ],
+    "weight_limit": 90,
+    "size": "4x3",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+
+  },
+  {
+    "name": "Intex Premium",
+    "price": 14400,
+    "description": "High raised queen bed",
+    "colors": [
+      "black",
+      "gray",
+      "blue"
+    ],
+    "weight_limit": 180,
+    "size": "6x5",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+
+  },
+  {
+    "name": "Kids Travel Bed",
+    "price": 13000,
+    "description": "High raised queen bed",
+    "colors": [
+      "white"
+
+    ],
+    "weight_limit": 80,
+    "size": "168x107cm",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+
   }
 ]
