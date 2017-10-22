@@ -7,7 +7,7 @@
       "pink",
       "black"
     ],
-    "weight_limit": "38kg",
+    "weight_limit": "38",
     "size": "91cmx102cmx65cm",
     "texture": [
       "Velvet"
@@ -28,7 +28,7 @@
       "pink",
       "black"
     ],
-    "weight_limit": "38kg",
+    "weight_limit": "38",
     "size": "68cmx62cmx65cm",
     "texture": [
       "plastic"
@@ -49,7 +49,7 @@
       "green",
       "black"
     ],
-    "weight_limit": "38kg",
+    "weight_limit": "38",
     "size": "68cmx62cmx65cm",
     "texture": [
       "24 gauge vinyl"
@@ -70,7 +70,7 @@
       "green",
       "Dark blue"
     ],
-    "weight_limit": "138kg",
+    "weight_limit": "138",
     "size": "68cmx62cmx65cm",
     "texture": [
       "vinyl"
