@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Inflatable bed",
+    "price": 13500,
+    "description": "Lorem ipsum",
+    "colors": [
+      "blue",
+      "black",
+      "teal",
+      "gray"
+    ],
+    "weight_limit": 35,
+    "size": "4x4",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  },
+  {
+    "name": "Inflatable bed",
+    "price": 13500,
+    "description": "Lorem ipsum",
+    "colors": [
+      "blue",
+      "black",
+      "teal",
+      "gray"
+    ],
+    "weight_limit": 35,
+    "size": "4x4",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  }
+]

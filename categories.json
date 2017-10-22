@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Beds",
+    "url": "https://nini.loopy.co.ke/beds.json"
+  },
+  {
+    "name": "Seats",
+    "url": "https://nini.loopy.co.ke/seats.json"
+  }
+]
