@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Inflatable Cafe Chair",
+    "price": 6500,
+    "description": "Specially engineered seat cushion",
+    "colors": [
+      "pink",
+      "black"
+    ],
+    "weight_limit": "38kg",
+    "size": "91cmx102cmx65cm",
+    "texture": [
+      "Velvet"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  },
+  {
+    "name": " inflatable  cafe club chair",
+    "price": 7500,
+    "description": "Durable lightweight body ",
+    "colors": [
+      "pink",
+      "black"
+    ],
+    "weight_limit": "38kg",
+    "size": "68cmx62cmx65cm",
+    "texture": [
+      "plastic"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  },
+  {
+    "name": "Inflatable chair",
+    "price": 6500,
+    "description": "Durable lightweight body ",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "weight_limit": "38kg",
+    "size": "68cmx62cmx65cm",
+    "texture": [
+      "24 gauge vinyl"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  },
+  {
+    "name": " Two Person Inflatable",
+    "price": 16500,
+    "description": "Durable lightweight body ",
+    "colors": [
+      "green",
+      "Dark blue"
+    ],
+    "weight_limit": "138kg",
+    "size": "68cmx62cmx65cm",
+    "texture": [
+      "vinyl"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  },
+  {
+    "name": " Round Chair",
+    "price": 16500,
+    "description": "Durable lightweight body ",
+    "colors": [
+      "green",
+      "Dark blue"
+    ],
+    "weight_limit": "138kg",
+    "size": "68cmx62cmx65cm",
+    "texture": [
+      "vinyl"
+    ],
+    "payment_terms": [
+      "cia",
+      "cod"
+    ],
+    "image": [
+      "https://nini.loopy.co.ke/bed1.jpg"
+    ]
+  }
+]
